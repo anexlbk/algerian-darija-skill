@@ -2,12 +2,12 @@
 
 Pulled and cleaned from a crowdsourced Darija dictionary. That source is noisy (its own dataset card flags spam), so this is a filtered subset: real, everyday loanwords only. Slurs, sexual slang, and gossip entries about named individuals were excluded, not partially included.
 
-**Transliteration note:** Algerian written Darija does not use the Persian/Moroccan letters پ (p) or گ (g). For the French p-sound, Algerians write ب. For the French/hard g-sound, Algerians write ڨ (qaf with three dots) or fall back to غ/ق depending on the word. Using پ/گ is a Moroccan-coded spelling convention and will read as wrong to an Algerian — every entry below has been re-transliterated accordingly.
+**Transliteration note:** Algerian written Darija does not use the Persian/Moroccan letters پ (p) or گ (g). For the French p-sound, Algerians write ب. For the French/hard g-sound, Algerians write ڨ (qaf with three dots) or fall back to غ/ق depending on the word. Using پ/گ is a Moroccan-coded spelling convention and will read as wrong to an Algerian, every entry below has been re-transliterated accordingly.
 
 **Confidence tags:**
-- **common** — everyday word, safe to use unprompted in casual or marketing copy
-- **regional** — real and correct, but tied to a specific area/context; check fit before using
-- **rare** — technically valid but low-frequency; only use if the user specifically asks for that concept, don't reach for it as a default "authenticity" word
+- **common**, everyday word, safe to use unprompted in casual or marketing copy
+- **regional**, real and correct, but tied to a specific area/context; check fit before using
+- **rare**, technically valid but low-frequency; only use if the user specifically asks for that concept, don't reach for it as a default "authenticity" word
 
 ## French loanwords
 
@@ -30,11 +30,11 @@ Pulled and cleaned from a crowdsourced Darija dictionary. That source is noisy (
 
 Dropped from the original list (too rare or unverifiable in everyday Algerian speech to be worth loading): parapluie, parasol, projet, période, pistache, pile-as-color-name, perroquet, plaisir, poteau, آتاي (this word tracks with Moroccan/Saharan tea culture, not general Algerian usage).
 
-## Spanish-origin (regional — Oran/west)
+## Spanish-origin (regional, Oran/west)
 
 | Darija | Notes | Confidence |
 |---|---|---|
-| أري | from Spanish "arrea" — command to an animal to move | rare (dialectal, west-specific) |
+| أري | from Spanish "arrea", command to an animal to move | rare (dialectal, west-specific) |
 
 ## Turkish-origin
 
@@ -63,6 +63,6 @@ Dropped from the original list (too rare or unverifiable in everyday Algerian sp
 | ثاني (synonyms: گانة, زادة)* | "also/too" | common |
 | قداش عندي ملي... pattern | "it's been a while since..." | common |
 
-*گانة here is an existing dialectal spelling some speakers use for a native Darija word, not a French/foreign loan — left as-is since it isn't a p/g transliteration-of-a-loanword case.
+*گانة here is an existing dialectal spelling some speakers use for a native Darija word, not a French/foreign loan, left as-is since it isn't a p/g transliteration-of-a-loanword case.
 
-Skip anything not in this list unless you have independent confidence in it — don't extrapolate slang from the dictionary's raw form, since a meaningful share of its unfiltered entries are unreliable, offensive, or about specific individuals rather than general vocabulary. When in doubt, default to "common"-tagged entries only.
+Skip anything not in this list unless you have independent confidence in it, don't extrapolate slang from the dictionary's raw form, since a meaningful share of its unfiltered entries are unreliable, offensive, or about specific individuals rather than general vocabulary. When in doubt, default to "common"-tagged entries only.
