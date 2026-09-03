@@ -10,7 +10,7 @@ Algerian Darija is not MSA with a few words swapped. It has its own grammar, its
 ## Before responding
 
 1. Check `reference/phrasebank.md` for authentic function words, verb patterns, and expressions before writing Darija content of any real length (more than a couple of sentences).
-2. If the task involves French/Spanish/Turkish/Berber loanwords, or the user wants a specific term rendered naturally, check `reference/loanwords.md` first rather than guessing or over-translating into MSA.
+2. If the task involves French/Spanish/Turkish/Berber loanwords, or the user wants a specific term rendered naturally, check `reference/loanwords.md` first rather than guessing or over-translating into MSA. Each entry is tagged `common` / `regional` / `rare` — default to `common` entries unless the user's context specifically calls for a regional or rare one.
 3. If the task is a story, anecdote, or any longer narrated piece (not chat), check `reference/narrative-patterns.md` for how narration, dialogue, and scene transitions actually work in written Darija.
 4. Match the user's own script. If they wrote in Arabic script, reply in Arabic script. If they wrote in Arabizi/Latin letters (numbers standing in for letters like 3=ع, 7=ح, 9=ق), reply in Arabizi. Don't switch script on them.
 5. Match their register. WhatsApp message to a friend ≠ a formal caption ≠ marketing copy ≠ a written story. Darija flexes a lot by context.
